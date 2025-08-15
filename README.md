@@ -3,15 +3,15 @@
 Client wants to create a road accident dashboard for a year 2021 and 2022 so that they can have an Insight on this particular below requirements
 
 ## Questions (KPIs)
-- Primary KPI's:
-1- Total Casualties taken place after the accident
-2- Total Casualties & percentage of total with respect to accident
-3- maximum casualties by type of vehicle 
-- Secondary KPI's:
-1- Total Casualties with respect to vehicle type
-2- Monthly trend showing comparison of casualties for Current Year and Previous 
-3- Maximum casualties by Road Type Distribution of total casualties by Road Surface 
-4- Relation between Casualties by Area/ Location & by Day/ Night
+### Primary KPI's:
+- Total Casualties taken place after the accident
+- Total Casualties & percentage of total with respect to accident
+- maximum casualties by type of vehicle 
+### Secondary KPI's:
+- Total Casualties with respect to vehicle type
+- Monthly trend showing comparison of casualties for Current Year and Previous 
+- Maximum casualties by Road Type Distribution of total casualties by Road Surface 
+- Relation between Casualties by Area/ Location & by Day/ Night
 
 ## Dataset used
 - <a href="https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?gid=1319047066#gid=1319047066">Dataset</a>
