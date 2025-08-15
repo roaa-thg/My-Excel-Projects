@@ -29,6 +29,19 @@ Client wants to create a road accident dashboard for a year 2021 and 2022 so tha
 
 ![Screenshot (495)](https://github.com/roaa-thg/My-Excel-Projects/blob/0e8f903ea8875961e046f7c1cb6b81df1409e4b7/DashBoard.jpg)
 
-## Project Insight
+## Project Insight:
+The dashboard analyzes road accident data for the years 2021 and 2022, covering nearly 3 million records. 
+It focuses on identifying patterns, trends, and key factors contributing to casualties. Key observations include:
+
+Primary KPI: Total casualties and their percentage relative to accidents, with breakdowns by vehicle type.
+
+Trends: Monthly comparison between 2021 and 2022 shows clear seasonal variations, with notable spikes during specific months.
+
+Vehicle Impact: Certain vehicle types contribute disproportionately to maximum casualties.
+
+Location Factors: Road type and surface conditions show a direct correlation with casualty numbers.
+
+Time Factors: Higher casualties occur in specific time frames (day/night) depending on area type.
 
 ## Final Conclusion:
+The analysis reveals that improving road safety requires targeted interventions on high-risk vehicle types, specific road surfaces, and dangerous road types. Seasonal spikes suggest the need for temporary preventive measures during peak months. Insights from the dashboard can guide policymakers and transport authorities to design data-driven safety strategies, allocate resources efficiently, and reduce future casualties.
